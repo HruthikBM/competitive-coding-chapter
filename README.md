@@ -24,13 +24,13 @@ tipics discussed:
 topic discussed:
 1. pointer and referance 
     ( how fun1(),fun2(),fun3() differs from each other)
-``` 
-#include<bits/stdc++.h>
-using namespace std;
-void fun1(int &r){ r++;}
-void fun2(int *p1){ (*p1)++;}
-void fun3(int *p2){	*p2++; }
-int  main(){
+ ``` 
+ #include<bits/stdc++.h>
+ using namespace std;
+ void fun1(int &r){ r++;}
+ void fun2(int *p1){ (*p1)++;}
+ void fun3(int *p2){	*p2++; }
+ int  main(){
 	int a=5,*p=&a; 
 	fun1(a);
 	cout<<a<<endl;
@@ -39,16 +39,18 @@ int  main(){
 	fun3(&(*&a));
 	cout<<a<<endl;
 	return 0;
-} 
-``` 
+ } 
+ ``` 
+ 
 2. string 
-<p>
+ <p>
   <img width="300" height="300" src="https://raw.githubusercontent.com/HruthikBM/competitive-coding-chapter/master/image/sting1.png">
-</p>
+ </p>
+
 3. google interview question form interviewcake
-<p>
+ <p>
    <img width="300" height="300" src="https://raw.githubusercontent.com/HruthikBM/competitive-coding-chapter/master/image/googleint.png">
-</p>
+ </p>
 
    for solution [solution](https://github.com/HruthikBM/competitive-coding-chapter/blob/master/day%231/q1%20solution.txt)
  
