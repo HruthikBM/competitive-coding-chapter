@@ -45,9 +45,11 @@ int  main(){
 <p>
   <img width="300" height="300" src="https://raw.githubusercontent.com/HruthikBM/competitive-coding-chapter/master/image/sting1.png">
 </p>
-for solution https://github.com/HruthikBM/competitive-coding-chapter/blob/master/day%231/q1%20solution.txt
 3. google interview question form interviewcake
 <p>
    <img width="300" height="300" src="https://raw.githubusercontent.com/HruthikBM/competitive-coding-chapter/master/image/googleint.png">
-</p>	
-	
+</p>
+
+   for solution [solution](https://github.com/HruthikBM/competitive-coding-chapter/blob/master/day%231/q1%20solution.txt)
+ 
+-----
