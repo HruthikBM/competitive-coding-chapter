@@ -1,0 +1,15 @@
+Since we have two eggs, we can skip multiple floors at a time until the first egg breaks, keeping track of which floors we dropped it from.
+Once that egg breaks we can use the second egg to try every floor, 
+starting on the last floor where the egg didn't break and ending on the floor below the one where it did break.
+
+We want to skip as few floors as possible, so if the first egg breaks right away we don't have a lot of floors to drop our second egg from.
+We always want to be able to reduce the number of floors we're skipping
+
+check my solutions here
+https://ide.geeksforgeeks.org/micH34Hdmt
+
+variable that iam using are : 'ad','pre','i','skip',
+keeping the variable 'ad' for counting the no of drop
+'pre' is for last floor where the egg didn't break
+'i' is floor we will drop the egg and we increment value by 'skip'
+
