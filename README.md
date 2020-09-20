@@ -13,9 +13,9 @@ hey there👋
 ### intro session 
 ### 15th september 2020
 tipics discussed:
- 1. what is competitive programming? 
- 2. Is Competitive Programming Helpful for Tech Interviews?
- 3. how can competitive programming help you get a job?
+#### 1. what is competitive programming? 
+#### 2. Is Competitive Programming Helpful for Tech Interviews?
+#### 3. how can competitive programming help you get a job?
  
  
 --------
@@ -54,6 +54,6 @@ topic discussed:
    <img width="300" height="300" src="https://raw.githubusercontent.com/HruthikBM/competitive-coding-chapter/master/image/googleint.png">
  </p>
 
-   for solution [solution](https://github.com/HruthikBM/competitive-coding-chapter/blob/master/day%231/q1%20solution.txt)
+   for solution [click here](https://github.com/HruthikBM/competitive-coding-chapter/tree/master/day%231)
  
 -----
