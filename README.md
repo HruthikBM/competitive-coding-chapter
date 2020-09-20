@@ -7,6 +7,8 @@ hey there👋
 - we are currently working on competitive coding 💻
 - we are looking to collaboration with other competitve programmer 🙋‍ 
 - 2020 Goals: learing c++,data structure and algorithm 
+
+
 ------
 ### intro session 
 ### 15th september 2020
@@ -38,5 +40,12 @@ int  main(){
 } 
 ``` 
 2. string 
+<p>
+  <img width="300" height="300" src="https://raw.githubusercontent.com/HruthikBM/competitive-coding-chapter/master/image/sting1.png">
+</p>
 
 3. google interview question form interviewcake
+<p>
+   <img width="300" height="300" src="https://raw.githubusercontent.com/HruthikBM/competitive-coding-chapter/master/image/googleint.png">
+</p>	
+	
