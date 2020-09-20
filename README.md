@@ -19,7 +19,7 @@ tipics discussed:
  
  
 --------
-### daily discussion
+### daily discussion #1
 ###  16th september 2020
 topic discussed:
 1. pointer and referance 
@@ -45,7 +45,7 @@ int  main(){
 <p>
   <img width="300" height="300" src="https://raw.githubusercontent.com/HruthikBM/competitive-coding-chapter/master/image/sting1.png">
 </p>
-
+for solution https://github.com/HruthikBM/competitive-coding-chapter/blob/master/day%231/q1%20solution.txt
 3. google interview question form interviewcake
 <p>
    <img width="300" height="300" src="https://raw.githubusercontent.com/HruthikBM/competitive-coding-chapter/master/image/googleint.png">
