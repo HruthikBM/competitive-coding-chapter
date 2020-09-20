@@ -16,6 +16,8 @@ tipics discussed:
  1. what is competitive programming? 
  2. Is Competitive Programming Helpful for Tech Interviews?
  3. how can competitive programming help you get a job?
+ 
+ 
 --------
 ### daily discussion
 ###  16th september 2020
