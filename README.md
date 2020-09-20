@@ -22,7 +22,7 @@ tipics discussed:
 ### daily discussion #1
 ###  16th september 2020
 topic discussed:
-1. pointer and referance 
+#### 1. pointer and referance 
     ( how fun1(),fun2(),fun3() differs from each other)
  ``` 
  #include<bits/stdc++.h>
@@ -42,12 +42,14 @@ topic discussed:
  } 
  ``` 
  
-2. string 
+#### 2. string 
+
  <p>
   <img width="300" height="300" src="https://raw.githubusercontent.com/HruthikBM/competitive-coding-chapter/master/image/sting1.png">
  </p>
 
-3. google interview question form interviewcake
+#### 3. google interview question form interviewcake
+
  <p>
    <img width="300" height="300" src="https://raw.githubusercontent.com/HruthikBM/competitive-coding-chapter/master/image/googleint.png">
  </p>
