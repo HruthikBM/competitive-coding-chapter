@@ -23,7 +23,7 @@ tipics discussed:
 ###  16th september 2020
 topic discussed:
 1. pointer and referance 
-   - how fun1(),fun2(),fun3() differs from each other
+    ( how fun1(),fun2(),fun3() differs from each other)
 ``` 
 #include<bits/stdc++.h>
 using namespace std;
