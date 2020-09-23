@@ -1,5 +1,5 @@
  
-# COMPETITEVE-CODING-CHAPTER-VVCE-DSC 
+# competitive-coding-chapter 
 ![DSC](https://pbs.twimg.com/profile_images/1126128072523231232/GxX-zWIR_400x400.jpg)
 
 ## Daily updates of competitive programming chapter VVCE_DSC
